@@ -1,0 +1,10 @@
+PRE-INSTALLATION
+----------------
+- install MICROSOFT VISUAL C++ 2008 SP1 REDISTRIBUTABLE PACKAGE (x86)
+
+INSTALLATION
+------------
+- unzip P4W-X.X.X.zip
+
+IMPORTANT
+---------

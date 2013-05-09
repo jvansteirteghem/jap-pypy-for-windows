@@ -1,2 +1,0 @@
-jap-pypy-for-windows
-====================
